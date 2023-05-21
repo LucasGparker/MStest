@@ -1,0 +1,5 @@
+C:\Users\cuteg\Desktop\MStest\atividade_imc_mstest\obj\Debug\net6.0\atividade_imc_mstest.csproj.AssemblyReference.cache
+C:\Users\cuteg\Desktop\MStest\atividade_imc_mstest\obj\Debug\net6.0\atividade_imc_mstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuteg\Desktop\MStest\atividade_imc_mstest\obj\Debug\net6.0\atividade_imc_mstest.AssemblyInfoInputs.cache
+C:\Users\cuteg\Desktop\MStest\atividade_imc_mstest\obj\Debug\net6.0\atividade_imc_mstest.AssemblyInfo.cs
+C:\Users\cuteg\Desktop\MStest\atividade_imc_mstest\obj\Debug\net6.0\atividade_imc_mstest.csproj.CoreCompileInputs.cache
